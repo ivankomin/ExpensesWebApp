@@ -266,4 +266,4 @@ C:\Users\ivank\source\repos\ExpensesWebApp\obj\Debug\net8.0\refint\ExpensesWebAp
 C:\Users\ivank\source\repos\ExpensesWebApp\obj\Debug\net8.0\ExpensesWebApp.pdb
 C:\Users\ivank\source\repos\ExpensesWebApp\obj\Debug\net8.0\ExpensesWebApp.genruntimeconfig.cache
 C:\Users\ivank\source\repos\ExpensesWebApp\obj\Debug\net8.0\ref\ExpensesWebApp.dll
-C:\Users\ivank\source\repos\ExpensesWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ivank\source\repos\ExpensesWebApp\obj\Debug\net8.0\ExpensesWebApp.sourcelink.json
