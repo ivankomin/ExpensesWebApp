@@ -1,0 +1,71 @@
+﻿@model ExpensesWebApp.ViewModels.ExpenseFilterViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Your expenses</h1>
+<div class="container">
+    <div class="row mb-4">
+        <div class="col d-flex justify-content-between align-items-end">
+            <div>
+                <a asp-action="Create" class="btn btn-primary">Create New</a>
+            </div>
+            <form method="get" class="d-flex justify-content-end gap-3">
+                <div class="form-group">
+                    <label for="categorySelect">Filter By Category</label>
+                    <select id="categorySelect" name="category" class="form-control" onchange="this.form.submit()">
+                        <option value="" selected="@(Model.SelectedCategory == null)" hidden>Select Category</option>
+                        <option value="Food" selected="@(Model.SelectedCategory == "Food")">Food</option>
+                        <option value="Healthcare" selected="@(Model.SelectedCategory == "Healthcare")">Healthcare</option>
+                        <option value="Personal" selected="@(Model.SelectedCategory == "Personal")">Personal Spending</option>
+                        <option value="Entertainment" selected="@(Model.SelectedCategory == "Entertainment")">Entertainment</option>
+                        <option value="Utilities" selected="@(Model.SelectedCategory == "Utilities")">Utilities</option>
+                        <option value="Other" selected="@(Model.SelectedCategory == "Other")">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="orderSelect">Order By</label>
+                    <select id="orderSelect" name="order" class="form-control" onchange="this.form.submit()">
+                        <option value="" selected="@(Model.SelectedOrder == null)" hidden>Select Order</option>
+                        <option value="newest" selected="@(Model.SelectedOrder == "newest")">Newest First</option>
+                        <option value="oldest" selected="@(Model.SelectedOrder == "oldest")">Oldest First</option>
+                        <option value="highest" selected="@(Model.SelectedOrder == "highest")">Highest Amount</option>
+                        <option value="lowest" selected="@(Model.SelectedOrder == "lowest")">Lowest Amount</option>
+                    </select>
+                </div>
+
+                <div class="form-group d-flex align-items-end">
+                    <a asp-action="Index" class="btn btn-secondary">Reset</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Category</th>
+        <th>Amount</th>
+        <th>Date</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Expenses)
+    {
+        <tr>
+            <td>@item.ExpenseCategory?.Name</td>
+            <td>@item.ExpenseSum</td>
+            <td>@item.ExpenseDate.ToShortDateString()</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,29 @@
+Time: 2025-05-11 20:17:51 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 5
+Time: 2025-05-11 20:23:51 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 6
+Time: 2025-05-11 20:30:32 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 6
+Time: 2025-05-11 20:45:47 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Edited - Expense: 5
+Time: 2025-05-11 20:45:54 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Edited - Expense: 5
+Time: 2025-05-11 20:46:10 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Edited - Expense: 5
+Time: 2025-05-11 20:46:33 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 7
+Time: 2025-05-11 20:47:58 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Registered
+Time: 2025-05-11 20:48:05 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-12 09:32:24 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 8
+Time: 2025-05-12 09:49:30 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 9
+Time: 2025-05-12 09:49:49 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 8
+Time: 2025-05-12 09:49:52 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 7
+Time: 2025-05-12 09:49:54 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 5
+Time: 2025-05-12 09:55:41 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 10
+Time: 2025-05-12 09:58:17 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 11
+Time: 2025-05-12 09:59:06 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 10
+Time: 2025-05-12 09:59:08 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 9
+Time: 2025-05-12 10:02:26 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 12
+Time: 2025-05-12 10:04:22 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 13
+Time: 2025-05-12 10:13:07 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Edited - Expense: 11
+Time: 2025-05-12 10:18:16 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Edited - Expense: 13
+Time: 2025-05-12 10:19:58 - User: 3cf481a3-19ba-4845-86d2-a08a905fdf23 - Action: Registered
+Time: 2025-05-12 10:27:21 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-12 11:09:57 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 13
+Time: 2025-05-12 11:09:59 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 12
+Time: 2025-05-12 11:10:00 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Deleted - Expense: 11
+Time: 2025-05-12 11:11:49 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-12 11:12:00 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 14

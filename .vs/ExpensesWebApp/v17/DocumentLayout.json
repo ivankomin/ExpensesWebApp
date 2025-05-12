@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|c:\\users\\ivank\\source\\repos\\expenseswebapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|c:\\users\\ivank\\source\\repos\\expenseswebapp\\views\\expenses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|solutionrelative:views\\expenses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|c:\\users\\ivank\\source\\repos\\expenseswebapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|solutionrelative:views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|c:\\users\\ivank\\source\\repos\\expenseswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|c:\\users\\ivank\\source\\repos\\expenseswebapp\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E99006-7E51-4318-BE8E-89110A4D5DBC}|ExpensesWebApp.csproj|solutionrelative:views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Views\\Expenses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expenses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Views\\Expenses\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Expenses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T17:10:32.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:59:45.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:00:11.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expenses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:57:02.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expenses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ivank\\source\\repos\\ExpensesWebApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "Views\\Expenses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:53:35.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
