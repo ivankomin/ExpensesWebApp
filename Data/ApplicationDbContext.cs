@@ -26,7 +26,5 @@ protected override void OnModelCreating(ModelBuilder builder)
             })
             .ToArray()
     );
-
 }
-
 }

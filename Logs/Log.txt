@@ -33,3 +33,27 @@ Time: 2025-05-13 22:12:16 - User: c3232b15-09da-4106-9849-c200a435154d - Action:
 Time: 2025-05-13 22:12:24 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 16
 Time: 2025-05-15 15:45:42 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
 Time: 2025-05-16 18:42:49 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-17 20:43:56 - User: 3cf481a3-19ba-4845-86d2-a08a905fdf23 - Action: Logged In
+Time: 2025-05-17 20:48:42 - User: fcbbc457-52eb-4e73-add3-4a77113e65bc - Action: Registered
+Time: 2025-05-17 20:48:48 - User: fcbbc457-52eb-4e73-add3-4a77113e65bc - Action: Logged In
+Time: 2025-05-17 20:48:53 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-20 13:29:44 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 17
+Time: 2025-05-20 13:29:50 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Edited - Expense: 17
+Time: 2025-05-20 13:41:35 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Created - Expense: 18
+Time: 2025-05-20 14:00:53 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-21 19:43:26 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-21 19:45:18 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-21 19:45:23 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-21 19:45:28 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-21 19:45:34 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-21 19:45:48 - User: c3232b15-09da-4106-9849-c200a435154d - Action: Logged In
+Time: 2025-05-21 20:27:28 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Logged In
+Time: 2025-05-21 20:27:41 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Created - Expense: 19
+Time: 2025-05-21 20:28:00 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Created - Expense: 20
+Time: 2025-05-21 20:28:27 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Created - Expense: 21
+Time: 2025-05-21 20:34:05 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Created - Expense: 22
+Time: 2025-05-21 20:52:04 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Edited - Expense: 22
+Time: 2025-05-23 11:42:49 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Logged In
+Time: 2025-05-23 11:45:17 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Created - Expense: 23
+Time: 2025-05-23 11:45:20 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Deleted - Expense: 23
+Time: 2025-05-23 11:45:42 - User: 9e0e544d-60c5-4acc-8b61-8079b2b33073 - Action: Edited - Expense: 21

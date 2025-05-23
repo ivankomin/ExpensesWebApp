@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ExpensesWebApp.Data;
@@ -10,7 +6,6 @@ using ExpensesWebApp.Helpers;
 using ExpensesWebApp.Models;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
-using Microsoft.AspNetCore.Identity;
 using ExpensesWebApp.ViewModels;
 
 namespace ExpensesWebApp.Controllers
@@ -106,6 +101,10 @@ namespace ExpensesWebApp.Controllers
         [Authorize]
         public async Task<IActionResult> Create([Bind("Id,ExpenseCategoryId,ExpenseSum,ExpenseDate,Notes")] Expense expense)
         {
+            if (expense.ExpenseDate > DateOnly.FromDateTime(DateTime.Today))
+            {
+                ModelState.AddModelError("ExpenseDate", "Invalid date selected.");
+            }
             if (ModelState.IsValid)
             {
                 var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
@@ -167,7 +166,10 @@ namespace ExpensesWebApp.Controllers
             {
                 return NotFound();
             }
-
+            if (expense.ExpenseDate > DateOnly.FromDateTime(DateTime.Today))
+            {
+                ModelState.AddModelError("ExpenseDate", "Invalid date selected.");
+            }
             if (ModelState.IsValid)
             {
                 try
@@ -235,11 +237,6 @@ namespace ExpensesWebApp.Controllers
             await _context.SaveChangesAsync();
             UserActionLogger.Log(HttpContext, "Deleted", expense.Id);
             return RedirectToAction(nameof(Index));
-        }
-
-        private bool ExpenseExists(int id)
-        {
-            return _context.Expense.Any(e => e.Id == id);
         }
     }
 }
